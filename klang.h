@@ -4,4 +4,4 @@
 #define string 烧0
 
 #define print(x) 说(x)
-#define main(){x} 故事(x)
+#define main(){x} 故事(x)  
