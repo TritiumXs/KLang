@@ -1,7 +1,6 @@
-#define int 男娘
-#define double 伪娘
-#define char 药娘
-#define string 烧0
+#define _男娘 int 
+#define _伪娘 double
+#define _药娘 char
+#define _烧0 string
 
-#define print(x) 说(x)
-#define main(){x} 故事(x)  
+#define _内射 =0
